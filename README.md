@@ -11,7 +11,7 @@
   <img align="center" alt="Janja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Janja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Janja-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="130em" align="right" alt="Janja-perfil" src="https://media.discordapp.net/attachments/872851393898229813/879333540452507738/janja.gif?width=403&height=403">
+  <img height="130em" align="right" alt="Janja-perfil" src="https://media.discordapp.net/attachments/872851393898229813/882238796521963590/ezgif.com-gif-maker_1.gif?width=468&height=468">
 </div>
   
 ##
